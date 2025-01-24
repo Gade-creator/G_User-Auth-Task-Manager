@@ -1,7 +1,4 @@
-![Screenshot 2025-01-24 144129](https://github.com/user-attachments/assets/d5ad4d97-9000-4e00-a34d-6eb0364feef1)
-![Screenshot 2025-01-24 144011](https://github.com/user-attachments/assets/ba3dfdad-9541-4bd1-b8e4-34f420662e11)
-![Screenshot 2025-01-24 143640](https://github.com/user-attachments/assets/5ab28bb2-320c-4614-b904-d0de1266dec5)
-![Screenshot 2025-01-24 143203](https://github.com/user-attachments/assets/af83bee7-af8e-4b89-9c98-193843dc512b)
+
 # User Authentication and Task Management System
 
 ## **Project Description**
@@ -76,5 +73,10 @@ The **User Authentication and Task Management System** is a Python-based applica
 
 ---
 
-Feel free to explore and expand upon this project! Let me know if you encounter any issues or have feedback.
+![Screenshot 2025-01-24 144011](https://github.com/user-attachments/assets/ba3dfdad-9541-4bd1-b8e4-34f420662e11) 
+![Screenshot 2025-01-24 143640](https://github.com/user-attachments/assets/5ab28bb2-320c-4614-b904-d0de1266dec5)
+![Screenshot 2025-01-24 143203](https://github.com/user-attachments/assets/af83bee7-af8e-4b89-9c98-193843dc512b)
+![Screenshot 2025-01-24 144129](https://github.com/user-attachments/assets/d5ad4d97-9000-4e00-a34d-6eb0364feef1)
+
+
 
